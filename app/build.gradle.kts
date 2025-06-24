@@ -56,4 +56,9 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    // gen ai summarisation
+    implementation(libs.genai.summarization)
+    // lifecycle view model
+    implementation(libs.compose.viewmodel)
+
 }

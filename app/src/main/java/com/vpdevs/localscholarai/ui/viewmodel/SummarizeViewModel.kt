@@ -99,10 +99,10 @@ class SummarizeViewModel : ViewModel() {
         // Create task request
         val summarizationRequest = SummarizationRequest.builder(text).build()
         // Start summarization request with streaming response
-        summarizer.runInference(summarizationRequest) { newText ->
+       /* summarizer.runInference(summarizationRequest) { newText ->
             // Show new text in UI
             Log.d("ScholarSampleAI", "startSummarizationRequest: $newText")
-        }
+        }*/
 
         // get a non-streaming response from the request
         try {

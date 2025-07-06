@@ -3,7 +3,7 @@
 
     <string name="button_summarize">Summarize</string>
     <string name="button_clear">Clear</string>
-    <string name="text_summarizing">Summarizing</string>
+    <string name="text_summarizing">Processing On-Device</string>
     <string name="text_footer">Built with ❤️ and powered by On-Device AI (Gemini Nano)</string>
     <string name="error_min_characters">Input text must be at least 400 characters</string>
     <string name="label_prompt">Summarize your notes using on-device AI</string>

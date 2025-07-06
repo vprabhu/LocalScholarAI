@@ -41,15 +41,10 @@ Gradle Kotlin DSL: Build system.
 
 📱 Screenshots
 Main Screen (Empty Input):
-
-
-Summarizing State:
-
-
-Summary Output:
-
+![home_screen](https://github.com/user-attachments/assets/d2e31c7f-4b3c-4b44-8f8e-aa67b46318b8)
 
 Demo Video (Optional but highly recommended):
+https://github.com/user-attachments/assets/d1e7a16c-2c23-4ead-9919-343b22f253d8 
 
 Watch a quick demo of Local Scholar AI in action!
 
